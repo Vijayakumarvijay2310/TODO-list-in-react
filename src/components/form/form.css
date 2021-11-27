@@ -1,0 +1,20 @@
+table{
+    border: 1px;
+    margin: 1px;
+    background-color: aquamarine;
+}
+th{
+    background-color:gray ;
+}
+#buttonedit{
+    font-variant: small-caps;
+    color: cornsilk;
+    background-color: blue;
+    margin-right: 4px;
+}
+#buttondelete{
+    font-variant: small-caps;
+    color: cornsilk;
+    background-color: red;
+    
+}

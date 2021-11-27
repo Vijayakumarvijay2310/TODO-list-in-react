@@ -1,0 +1,31 @@
+{
+  "players": [
+    {
+      "athlete": "giri",
+      "age": "27",
+      "country": "india",
+      "year": "2021",
+      "date": "17",
+      "sport": "c",
+      "id": 7
+    },
+    {
+      "athlete": "vijay",
+      "age": "27",
+      "country": "india",
+      "year": "2021",
+      "date": "17",
+      "sport": "c",
+      "id": 8
+    },
+    {
+      "athlete": "karthi",
+      "age": "33",
+      "country": "xd",
+      "year": "",
+      "date": "",
+      "sport": "",
+      "id": 9
+    }
+  ]
+}
